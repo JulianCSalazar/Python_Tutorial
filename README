@@ -1,0 +1,18 @@
+This repo holds python scripts to learn introductory python concepts. The code
+content follows the curriculum of the online courses provided by Georgia Tech
+through edx.org. Addtionally, the code itself is often derivative of the code
+given as examples throughout the courses. My comments are only brief 
+explanations of concepts. For more in depth explanations, I suggest you check
+out the Python Fundamentals courses provided by edx.org.
+
+Python_Intro.py content contains:
+	1. Print Statements
+	2. Variables and Types
+	3. Logical Operators
+	4. Mathematical Operators
+
+Python_Part2.py content contains:
+	1. Conditionals
+	2. Loops
+	3. Functions
+	4. Exception Handling
