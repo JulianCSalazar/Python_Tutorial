@@ -168,7 +168,7 @@ def Find_Max(op1, op2):
     else:
         return None
     
-print("Max(5, 7) is:", Find_Max(5,7))
+print("Max(5, 7) is:", Find_Max(5, 7))
 
 # The following is an example of a function that has neither parameters or a
 #   return value.
